@@ -16,7 +16,7 @@ A fully functional, 2D interactive Snake Game built natively in **Java Swing**. 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/snake-game-java.git
+   git clone https://github.com/bhavya1975/snake-game-java.git
    cd snake-game-java
    ```
 
